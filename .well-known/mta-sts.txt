@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: devops-modernit-pro.mail.protection.outlook.com
+mx: devops-modernit-pro.a-v1.mx.microsoft
+max_age: 86400
